@@ -29,3 +29,8 @@ That's it!  Now you shouldn't see Verified accounts with under 10K followers.  I
 
 
 @IFHYA on paypal if you'd like to donate for a cup of coffee :)
+
+TODO:  
+Auto hide commentors
+Option to set min # of followers (currently 10K)
+
