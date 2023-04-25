@@ -3,7 +3,7 @@ Auto hide Twitter Blue Checks with under 10k followers from your timeline
 
 Not yet published to the Chrome Extension store yet till I make some icons as required, but you can manually use it with these directions (Don't worry, it's very simple!):
 
-Step 1 - download the .zip file here: [Anti-BlueCheckmark.zip](https://github.com/wolfrage76/AntiBlueCheckmark/files/11327397/Anti-BlueCheckmark.zip)
+Step 1 - download the .zip file here: [Anti-BlueCheckmark.zip](https://github.com/wolfrage76/AntiBlueCheckmark/files/11327422/Anti-BlueCheckmark.zip)
 
 Step 2 - extract the contents of the zip file
 Right click on the downloaded zip file, then click "Extract Here".
@@ -25,3 +25,4 @@ Then select a folder that contains the manifest.json file.
 
 That's it!  Now you shouldn't see Verified accounts with under 10K followers.  I will work on adding an Option to set your own follower limit.
 
+[Anti-BlueCheckmark.zip](https://github.com/wolfrage76/AntiBlueCheckmark/files/11327422/Anti-BlueCheckmark.zip)
