@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Twitter Verified Filter",
+  "version": ".0.0.1",
+  "description": "Hides verified accounts with fewer than 10k followers on Twitter.",
+  "permissions": [
+    "https://twitter.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://twitter.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}
