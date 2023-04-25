@@ -28,3 +28,4 @@ Then select a folder that contains the manifest.json file.
 That's it!  Now you shouldn't see Verified accounts with under 10K followers.  I will work on adding an Option to set your own follower limit.
 
 
+@IFHYA on paypal if you'd like to donate for a cup of coffee :)
