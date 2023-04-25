@@ -1,7 +1,7 @@
 # AntiBlueCheckmark
 Auto hide Twitter Blue Checks with under 10k followers from your timeline
 
-Not yet published to the Chrome Extension store yet till I make some icons as required, but you can manually use it with these directions:
+Not yet published to the Chrome Extension store yet till I make some icons as required, but you can manually use it with these directions (Don't worry, it's very simple!):
 
 Step 1 - download the .zip file
 
